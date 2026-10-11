@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Remote body with the D-pad ring, Back/Home and volume rocker cut out; OK stays filled. -->
+  <path fill="#fff" fill-rule="evenodd" d="
+    M512 112 a180 180 0 0 1 180 180 v440 a180 180 0 0 1 -180 180 a180 180 0 0 1 -180 -180 v-440 a180 180 0 0 1 180 -180 Z
+    M512 192 a138 138 0 1 0 0.01 0 Z
+    M512 274 a56 56 0 1 1 -0.01 0 Z
+    M442 500 a34 34 0 1 0 0.01 0 Z
+    M582 500 a34 34 0 1 0 0.01 0 Z
+    M512 636 a34 34 0 0 0 -34 34 v118 a34 34 0 0 0 68 0 v-118 a34 34 0 0 0 -34 -34 Z"/>
+</svg>
